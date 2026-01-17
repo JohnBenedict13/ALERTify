@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "947827111906",
+    "firebase_url": "https://alertify-2026-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "alertify-2026",
+    "storage_bucket": "alertify-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947827111906:android:5d67a8e49f87629d50ebbb",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXtud8cx3BIkPQVHDyBwlsiXprj9D89GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
